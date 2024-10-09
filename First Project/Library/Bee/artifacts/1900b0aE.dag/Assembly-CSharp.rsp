@@ -357,6 +357,8 @@
 "Assets/CarBehaviours/FollowCameraBehaviour.cs"
 "Assets/CarBehaviours/LeanBehaviour.cs"
 "Assets/CarBehaviours/RumbleBehaviour.cs"
+"Assets/GameplayPack/Scripts/CollectibleBehaviour.cs"
+"Assets/GameplayPack/Scripts/ResetAreaBehaviour.cs"
 -langversion:9.0
 
 /deterministic
