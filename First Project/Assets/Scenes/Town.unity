@@ -996,6 +996,34 @@ PrefabInstance:
       propertyPath: particlePrefab
       value: 
       objectReference: {fileID: 1132847747590387985, guid: 7fbcea8345900154c83ec78867feaff8, type: 3}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1868862817}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AddScore
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Score, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 1245623218817407356, guid: 7d92769d3288d604986518965bee5857, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.46
@@ -4050,6 +4078,34 @@ PrefabInstance:
       propertyPath: particlePrefab
       value: 
       objectReference: {fileID: 1132847747590387985, guid: 7fbcea8345900154c83ec78867feaff8, type: 3}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1868862817}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AddScore
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Score, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 1245623218817407356, guid: 7d92769d3288d604986518965bee5857, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.8924408
@@ -7442,6 +7498,34 @@ PrefabInstance:
       propertyPath: particlePrefab
       value: 
       objectReference: {fileID: 1132847747590387985, guid: 7fbcea8345900154c83ec78867feaff8, type: 3}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1868862817}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AddScore
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Score, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 1245623218817407356, guid: 7d92769d3288d604986518965bee5857, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.8924408
@@ -7654,6 +7738,34 @@ PrefabInstance:
       propertyPath: particlePrefab
       value: 
       objectReference: {fileID: 1132847747590387985, guid: 7fbcea8345900154c83ec78867feaff8, type: 3}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1868862817}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AddScore
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Score, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 1245623218817407356, guid: 7d92769d3288d604986518965bee5857, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.46
@@ -10229,6 +10341,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5931728530664007103, guid: 15238605df1cfa242ab8e2cd02fadc50, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1868862816}
+    - targetCorrespondingSourceObject: {fileID: 5931728530664007103, guid: 15238605df1cfa242ab8e2cd02fadc50, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1868862817}
   m_SourcePrefab: {fileID: 100100000, guid: 15238605df1cfa242ab8e2cd02fadc50, type: 3}
 --- !u!1001 &860658923
 PrefabInstance:
@@ -11933,6 +12048,34 @@ PrefabInstance:
       propertyPath: particlePrefab
       value: 
       objectReference: {fileID: 1132847747590387985, guid: 7fbcea8345900154c83ec78867feaff8, type: 3}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1868862817}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AddScore
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Score, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 1245623218817407356, guid: 7d92769d3288d604986518965bee5857, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.46
@@ -13145,6 +13288,34 @@ PrefabInstance:
       propertyPath: particlePrefab
       value: 
       objectReference: {fileID: 1132847747590387985, guid: 7fbcea8345900154c83ec78867feaff8, type: 3}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1868862817}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AddScore
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Score, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 1245623218817407356, guid: 7d92769d3288d604986518965bee5857, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.46
@@ -14289,6 +14460,34 @@ PrefabInstance:
       propertyPath: particlePrefab
       value: 
       objectReference: {fileID: 1132847747590387985, guid: 7fbcea8345900154c83ec78867feaff8, type: 3}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1868862817}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AddScore
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Score, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 1245623218817407356, guid: 7d92769d3288d604986518965bee5857, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.8924408
@@ -16608,6 +16807,34 @@ PrefabInstance:
       propertyPath: particlePrefab
       value: 
       objectReference: {fileID: 1132847747590387985, guid: 7fbcea8345900154c83ec78867feaff8, type: 3}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1868862817}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AddScore
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Score, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 1245623218817407356, guid: 7d92769d3288d604986518965bee5857, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.46
@@ -18573,6 +18800,34 @@ PrefabInstance:
       propertyPath: particlePrefab
       value: 
       objectReference: {fileID: 1132847747590387985, guid: 7fbcea8345900154c83ec78867feaff8, type: 3}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1868862817}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AddScore
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Score, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 1245623218817407356, guid: 7d92769d3288d604986518965bee5857, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.8924408
@@ -20292,6 +20547,19 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 80
   m_CollisionDetection: 0
+--- !u!114 &1868862817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1868862808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a06f87d622e0e441a26ae1e7d126c6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreval: 0
 --- !u!4 &1869792344 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 54bb6bfa9dd7efc4a8d2d87b97e251f4, type: 3}
@@ -22806,6 +23074,34 @@ PrefabInstance:
       propertyPath: particlePrefab
       value: 
       objectReference: {fileID: 1132847747590387985, guid: 7fbcea8345900154c83ec78867feaff8, type: 3}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1868862817}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AddScore
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Score, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117088637531264583, guid: 7d92769d3288d604986518965bee5857, type: 3}
+      propertyPath: OnCollect.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 1245623218817407356, guid: 7d92769d3288d604986518965bee5857, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.8924408

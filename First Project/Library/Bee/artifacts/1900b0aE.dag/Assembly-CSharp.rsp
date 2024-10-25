@@ -359,6 +359,7 @@
 "Assets/CarBehaviours/RumbleBehaviour.cs"
 "Assets/GameplayPack/Scripts/CollectibleBehaviour.cs"
 "Assets/GameplayPack/Scripts/ResetAreaBehaviour.cs"
+"Assets/Score.cs"
 -langversion:9.0
 
 /deterministic
