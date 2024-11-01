@@ -5,12 +5,26 @@ using UnityEngine.UI;
 
 public class Score : MonoBehaviour
 {
-    string score = "Car Score:";
-    public int scoreval = 0;
+    public int  score = 0;
+    public float timer = 10f;
     //AddScore increments the value of score by 1.
     public void AddScore()
     {
-        scoreval++;
-        print(score + scoreval);
+        if (timer > 0f)
+        {
+            score++;
+            print("Score: " + score);
+        }
+        else
+        {
+            print("Out of time!");
+        }
+
+    }
+
+
+    void Update()
+    {
+        timer  -= Time.deltaTime;
     }
 }

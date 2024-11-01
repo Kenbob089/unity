@@ -355,7 +355,9 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Comparison.cs"
 "Assets/Conditional.cs"
+"Assets/Functions.cs"
 "Assets/HelloWorld.cs"
+"Assets/NestedConditionals.cs"
 "Assets/Operators.cs"
 "Assets/Variables.cs"
 -langversion:9.0
