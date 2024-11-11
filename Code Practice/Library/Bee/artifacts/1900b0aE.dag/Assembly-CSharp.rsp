@@ -358,8 +358,10 @@
 "Assets/Functions.cs"
 "Assets/HelloWorld.cs"
 "Assets/NestedConditionals.cs"
+"Assets/NewBehaviourScript.cs"
 "Assets/Operators.cs"
 "Assets/Variables.cs"
+"Assets/WhileLoops.cs"
 -langversion:9.0
 
 /deterministic
